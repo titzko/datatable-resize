@@ -1,0 +1,1 @@
+[Live demo](https://titzko.github.io/datatable-resize/)
